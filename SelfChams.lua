@@ -17,7 +17,7 @@ local function SelfChams()
 		end
 
 	end
-
+sadasdasd
 end
 
 callbacks.Register( "Draw", "SelfChams", SelfChams);
